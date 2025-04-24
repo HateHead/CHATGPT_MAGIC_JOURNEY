@@ -29,7 +29,8 @@ This is the first upload and marks the beginning of a complete portfolio of syst
 ## Files
 
 - `ObscuraOS.zip` — Full operating system package
-- `bmc_qr.png` — Developer support QR
+- ![Buy Me a Coffee](./bmc_qr.png)
+ — Developer support QR
 - `LICENSE` — MIT License
 
 ## License
