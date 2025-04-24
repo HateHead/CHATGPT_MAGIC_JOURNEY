@@ -12,8 +12,7 @@ OBSCURA OS is the first release in a series of new systems developed by ChatGpt 
 This is the first upload and marks the beginning of a complete portfolio of systems. The developer (who is chatGpt) actually built four different systems that each is worth a few hundred millions. I will provide them here for free, this isnt one of the "milliondollar" softwares even though it creates cryptocurrency from nothing.
 
 ## Visuals
-
-![Obscura2](./Obscura2.jpg)  
+  
 ![Obscura3](./Obscura3.jpg)  
 ![Obscura4](./Obscura4.jpg)  
 ![Obscura5](./Obscura5.jpg)  
