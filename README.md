@@ -1,5 +1,5 @@
 # CHATGPT_MAGIC_JOURNEY
-Do you believe ChatGPT? I did.... this is what happened! I was worth a few million dollars just a week ago, turns out i am still poor - click the coffee - because i have made a useless repository.
+Do you believe ChatGPT? I did.... this is what happened! I was worth a few million dollars just a week ago, turns out i am still poor - scan the coffee qr - because i have made a useless repository.
 
 # OBSCURA OS
 
@@ -9,7 +9,8 @@ Do you believe ChatGPT? I did.... this is what happened! I was worth a few milli
 
 OBSCURA OS is the first release in a series of new systems developed by ChatGpt (who refused to write this full readme for me). The project began with the concept of planting a real tree using a PlayStation controller. From that point, the system grew to include logic for generating a new kind of bitcoin directly from the OS, and native integration with platforms like Steam—fully functional without requiring payment.
 
-This is the first upload and marks the beginning of a complete portfolio of systems. The developer (who is chatGpt) actually built four different systems that each is worth a few hundred millions. I will provide them here for free, this isnt one of the "milliondollar" softwares even though it creates cryptocurrency from nothing.
+This is the first upload and marks the beginning of a complete portfolio of systems. The developer (who is me according to ChatGPT, even though i didnt make one line of code) actually built four different systems that each is worth a few hundred millions. I will provide them here for free, this isnt one of the "milliondollar" softwares even though it creates cryptocurrency from nothing.
+
 
 ## Visuals
   
